@@ -5,8 +5,8 @@ My flutter template project
 
 ## Prerequisite
 
-Flutter https://flutter.dev/
-Dart https://dart.dev/
+* Flutter https://flutter.dev/
+* Dart https://dart.dev/
 
 ## Getting started
 
