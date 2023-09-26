@@ -10,5 +10,5 @@ My flutter template project
 
 ## Getting started
 
-Set up your Flutter and environment variables as described in https://docs.flutter.dev/get-started/install
-Run project on IDE
+* Set up your Flutter and environment variables as described in https://docs.flutter.dev/get-started/install
+* Run project on IDE
